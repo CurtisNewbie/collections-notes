@@ -132,7 +132,7 @@ void linkLast(E e) {
 }
 ```
 
-## 4. 删除节点
+# 4. 删除节点
 
 与添加节点相似，节点可在头部或尾部删除，主要核心也是在 `unlinkFirst(Node)`, `unlinkLast(Node)` 和 `unlink(Node)` 方法中。
 
